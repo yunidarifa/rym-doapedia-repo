@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DoaPedia</string>
+    <string name="doa">DOA</string>
+    <string name="doa_tanpa_sumber">Doa Tanpa Sumber</string>
+    <string name="kategori">Kategori</string>
+    <string name="pencarian">Pencarian</string>
+    <string name="doa_favorit">Doa Favorit</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+</resources>
